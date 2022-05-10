@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import Image from "next/image"
 import cat2 from "../public/images/Black_background.jpeg"
-import cat23 from "../public/images/HD-wallpaper-2019-bmw-3-series-headlight-car_1600x880.jpeg"
+import cat23 from "../public/images/sps.png"
 import d from "../public/images/Screen Shot 2022-04-23 at 11.04.38 AM.png"
 import c from "../public/images/Black_background.jpeg"
 import b from "../public/images/Black_background.jpeg"
@@ -23,7 +23,7 @@ export default function Home() {
       Self-Driving Cars 
       </h1>
       <div className = "flex justify-evenly items-center w-full h-full pl-16">
-      <Image className = "w-96 h-96"
+      <Image className = "w-full h-full"
       src={cat23}
       />
       </div>     
