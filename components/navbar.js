@@ -41,7 +41,7 @@ export default function Navbar() {
                         HOME
                     </NavLink>
                     <NavLink to="/competition">
-                        ICRA COMPETITION
+                        COMPETITIONS
                     </NavLink>
                     <NavLink to="/about">
                         ABOUT US
