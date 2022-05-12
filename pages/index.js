@@ -12,12 +12,12 @@ import social from "../public/images/Screen Shot 2022-04-23 at 12.08.50 PM.png"
 export default function Home() {
   return (
     
-    <div className="bg-black">
-      <h1 className = "text-center text-8xl font-bold pt-36 text-transparent bg-gradient-to-r bg-clip-text from-blue-500 to-green-500">
+    <div className="bg-slate-200">
+      <h1 className = "text-center text-8xl font-bold pt-36 text-transparent bg-gradient-to-r bg-clip-text from-blue-500 to-green-700">
       Automotive Engineering Club
-      _____________________
+      __________
       </h1>
-      <h1 className = "text-center text-8xl font-bold py-16 text-transparent bg-gradient-to-r bg-clip-text from-blue-500 to-green-500">
+      <h1 className = "text-center text-7xl font-bold py-16 text-transparent bg-gradient-to-r bg-clip-text from-blue-500 to-green-700">
       Self-Driving Cars
       </h1>
       <div className = "flex justify-evenly items-center w-full h-full py-24">
